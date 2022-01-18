@@ -1,3 +1,5 @@
 COMPONENT: frontend
 APP_TYPE: frontend
 LOG_TYPE: raw
+MULTILINE_TYPE: none
+INCLUDE_LINES: none

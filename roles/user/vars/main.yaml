@@ -1,3 +1,5 @@
 COMPONENT: user
 APP_TYPE: backend
 LOG_TYPE: json
+MULTILINE_TYPE: none
+INCLUDE_LINES: none
