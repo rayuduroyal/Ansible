@@ -1,2 +1,3 @@
 COMPONENT: shipping
 APP_TYPE: backend
+LOG_TYPE: raw

@@ -1,2 +1,3 @@
 COMPONENT: payment
 APP_TYPE: backend
+LOG_TYPE: raw
